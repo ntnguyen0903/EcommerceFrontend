@@ -1,0 +1,12 @@
+.order-nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-nav h5 {
+  margin-right: 10px;
+}
+
+.order-nav h5:last-child {
+  margin-right: 0;
+}
